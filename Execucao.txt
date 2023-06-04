@@ -1,0 +1,3 @@
+Executar arquivo Dart
+
+dart ./index.dart
